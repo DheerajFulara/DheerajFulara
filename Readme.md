@@ -2,9 +2,24 @@
 <h3 align="center">Full Stack Developer | DSA Enthusiast | MERN Wizard</h3>
 
 <p align="center">
-  <a href="mailto:dheerajfulara0207@gmail.com"><img src="https://img.shields.io/badge/Gmail-DheerajFulara0207@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dheeraj-fulara/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/DheerajFulara"><img src="https://img.shields.io/badge/GitHub-DheerajFulara-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:dheerajfulara0207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-DHEERAJFULARA0207@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dheeraj-fulara/">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DheerajFulara">
+    <img src="https://img.shields.io/badge/GitHub-DHEERAJFULARA-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://port-folio-1-murex.vercel.app/"> <!-- Replace with your actual portfolio link -->
+    <img src="https://img.shields.io/badge/Portfolio-VIEW-orange?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/fulara_dheeraj/"> <!-- Replace with your actual Instagram link -->
+    <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/17mkdHabJUYnYUlIcIXkkBEFgu4GN-7DV/view?usp=drive_link"> <!-- Upload resume to /assets -->
+    <img src="https://img.shields.io/badge/Resume-Download-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -33,8 +48,6 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 #### 🔙 Backend
@@ -73,11 +86,21 @@
 
 ---
 
+---
+
 ### 💯 Coding Profiles
 
-- 🟧 [LeetCode](https://leetcode.com/u/dheerajfulara/) — 700+ problems solved
-- 🟩 [GeeksforGeeks](https://www.geeksforgeeks.org/user/dheerajfulara/) — 185+ problems
-- 🟪 [CodeChef](https://www.codechef.com/users/dheeraj_fulara) — Max Rating: 1340
+<p>
+  <a href="https://leetcode.com/u/dheerajfulara/">
+    <img src="https://img.shields.io/badge/LeetCode-700%2B%20Solved%20(Rating%201769)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dheerajfulara/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-185%2B%20Solved%20(Rating%201534)-14D964?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/dheeraj_fulara">
+    <img src="https://img.shields.io/badge/CodeChef-1340%20Rating%20(Global%20Rank%201757)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -92,8 +115,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DheerajFulara&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DheerajFulara&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajFulara&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DheerajFulara&theme=tokyonight" width="48%" />
 </p>
 
 ---
