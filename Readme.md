@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-185%2B%20Solved%20(Rating%201534)-14D964?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/dheeraj_fulara">
-    <img src="https://img.shields.io/badge/CodeChef-1340%20Rating%20(Global%20Rank%201757)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-Rating%201340-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
@@ -119,10 +119,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajFulara&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DheerajFulara&theme=tokyonight" width="48%" />
-</p>
-
----
 
 > 📌 *Let's build something amazing together!*
