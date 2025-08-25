@@ -11,13 +11,10 @@
   <a href="https://github.com/DheerajFulara">
     <img src="https://img.shields.io/badge/GitHub-DHEERAJFULARA-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://port-folio-1-murex.vercel.app/"> <!-- Replace with your actual portfolio link -->
+  <a href="https://port-folio-1-murex.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-VIEW-orange?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/fulara_dheeraj/"> <!-- Replace with your actual Instagram link -->
-    <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/17mkdHabJUYnYUlIcIXkkBEFgu4GN-7DV/view?usp=drive_link"> <!-- Upload resume to /assets -->
+  <a href="https://drive.google.com/file/d/17mkdHabJUYnYUlIcIXkkBEFgu4GN-7DV/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Download-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
 </p>
@@ -26,9 +23,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 CSE (AI & ML) student at GL Bajaj Institute of Technology & Management (2022–2026)
-- 💻 Passionate about Full Stack Web Development and solving real-world problems
-- 🔁 Constantly practicing DSA – solved **1000+ problems** across LeetCode, GFG, and CodeChef
+- 🎓 CSE (AI & ML) student at GL Bajaj Institute of Technology & Management (2022–2026) | GPA: **8.01**
+- 💻 Passionate about Full Stack Web Development & solving real-world problems
+- 🔁 Solved **1000+ DSA problems** across LeetCode, GFG, and CodeChef  
+- 📊 Ranked **546/37,036** in LeetCode Weekly Contest 460  
 - 📫 Reach me at **dheerajfulara0207@gmail.com**
 
 ---
@@ -38,15 +36,16 @@
 #### 👨‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  
 </p>
 
 #### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
@@ -55,12 +54,21 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-F38020.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 #### 🛢️ Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+#### 🔑 Authentication
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 #### ⚒️ Tools & Platforms
@@ -68,7 +76,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" />
 </p>
@@ -79,12 +87,10 @@
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| **ChatMate** | Real-time MERN chat app with JWT auth, online status, and modern UI | React, Zustand, Tailwind, Express, Socket.io, MongoDB | [🌐 Live](https://chat-app-ig1h.onrender.com) • [💻 Code](https://github.com/DheerajFulara/Chat-App) |
-| **EatConnect** | Platform to connect food donors with recipients, reducing waste | HTML/CSS/JS, Express, MongoDB, EJS | [🌐 Live](https://eat-connect.vercel.app/) • [💻 Code](https://github.com/DheerajFulara/EatConnect) |
-| **SlideShot** | Extracts presentation frames from YouTube videos using OpenCV | Python, OpenCV, Tkinter | [💻 Code](https://github.com/DheerajFulara/SlideShot) |
-| **InvestSaga** | Investment learning web app with games and tutorials | React, Node, Express, MongoDB | [💻 Code](https://github.com/DheerajFulara/InvestSaga) |
-
----
+| **ChatMate** | Real-time MERN chat app with JWT auth, online status, Zustand & modern UI | React, Zustand, Tailwind, DaisyUI, Express, Socket.io, MongoDB | [🌐 Live](https://chat-app-ig1h.onrender.com) • [💻 Code](https://github.com/DheerajFulara/Chat-App) |
+| **EatConnect** | Platform to connect food donors with recipients, reducing waste | HTML, CSS, JS, Express, MongoDB, EJS, Bootstrap | [🌐 Live](https://eat-connect.vercel.app/) • [💻 Code](https://github.com/DheerajFulara/EatConnect) |
+| **SlideShot** | Extracts presentation frames from YouTube videos & generates PDF | Python, OpenCV, Tkinter | [💻 Code](https://github.com/DheerajFulara/SlideShot) |
+| **InvestSaga** | Investment learning web app with games & tutorials | React, Node, Express, MongoDB | [💻 Code](https://github.com/DheerajFulara/InvestSaga) |
 
 ---
 
@@ -92,7 +98,7 @@
 
 <p>
   <a href="https://leetcode.com/u/dheerajfulara/">
-    <img src="https://img.shields.io/badge/LeetCode-700%2B%20Solved%20(Rating%201769)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-750%2B%20Solved%20(Max%201860)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/dheerajfulara/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-185%2B%20Solved%20(Rating%201534)-14D964?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
@@ -106,9 +112,10 @@
 
 ### 🏆 Achievements
 
-- 🥇 **5th Place** in **Google Developer HackSprint** @ GLBITM GDSC
-- 📊 Global Rank **958/27686** in LeetCode Weekly Contest 446
-- 🎯 Solved **1000+ DSA problems** across multiple platforms
+- 🥇 **5th Place** in **Google Developer HackSprint** @ GLBITM GDSC  
+- 📊 Global Rank **546/37036** in LeetCode Weekly Contest 460  
+- 🎯 Solved **1000+ DSA problems** across multiple platforms  
+- 🏅 Achieved **Knight Badge** on LeetCode (Top **5.54%** globally)  
 
 ---
 
@@ -119,5 +126,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajFulara&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
+---
 
 > 📌 *Let's build something amazing together!*
