@@ -14,7 +14,7 @@
   <a href="https://port-folio-1-murex.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-VIEW-orange?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/17mkdHabJUYnYUlIcIXkkBEFgu4GN-7DV/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1lnwTQ4oG7t8sgdjWEQxnDEaQXqaXC0eb/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-Download-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
 </p>
